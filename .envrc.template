@@ -1,0 +1,10 @@
+# init.sh
+export azure_admin_name='admin@zzdns.onmicrosoft.com' # Account used to create a service principal
+export azure_admin_secret='SECRET'
+export azure_app_name='app_name'
+
+# terraform & login.sh
+export ARM_CLIENT_ID='ID'
+export ARM_CLIENT_SECRET='SECRET'
+export ARM_SUBSCRIPTION_ID='ID'
+export ARM_TENANT_ID='ID'

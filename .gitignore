@@ -1,0 +1,8 @@
+# terraform
+terraform.tfvars
+*.tfstate*
+.terraform
+*local*
+
+# direnv
+*.envrc
